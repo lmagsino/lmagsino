@@ -11,14 +11,6 @@ Currently a Software Engineer at [ShiftCare](https://shiftcare.com/).
 
 ---
 
-## Stack
-
-Ruby · JavaScript · TypeScript · Python · Java  
-Rails · Node.js · React · Vue.js · React Native  
-PostgreSQL · MongoDB · MySQL
-
----
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/leomagsinojr/) · [Email](mailto:leo.magsino819@gmail.com)
